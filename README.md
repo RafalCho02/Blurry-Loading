@@ -1,3 +1,3 @@
 Blurry Loading is a loading animation that gradually becomes clear as the content loads.
 
-<img width="1439" alt="Zrzut ekranu 2024-07-20 o 11 07 06" src="https://github.com/user-attachments/assets/d6a6c7a7-8f61-4875-bb29-a01d31baac34">
+<img width="721" alt="Zrzut ekranu 2024-07-20 o 11 08 28" src="https://github.com/user-attachments/assets/9911116f-a360-42d2-8817-a7835af7902e">
